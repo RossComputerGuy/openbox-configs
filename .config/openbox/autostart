@@ -3,3 +3,4 @@ export GTK_THEME="Cyanogen"
 xcompmgr &
 cairo-dock &
 guake &
+dunst &
