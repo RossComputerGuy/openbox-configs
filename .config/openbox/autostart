@@ -1,0 +1,5 @@
+feh --bg-scale ~/Pictures/wallpaper.jpg
+export GTK_THEME="Cyanogen"
+xcompmgr &
+cairo-dock &
+guake &
